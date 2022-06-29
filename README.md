@@ -1,3 +1,5 @@
+![изображение](https://user-images.githubusercontent.com/92051961/176444360-dad2fdc1-c15f-46e1-8872-a992bf16a1bf.png)
+
 # Description
 React Pexels API - an application in which I fetched data from the Pexels API.
 
